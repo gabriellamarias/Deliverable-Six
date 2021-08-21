@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.exe
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.deps.json
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.runtimeconfig.json
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.dll
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\bin\Debug\netcoreapp3.1\Deliverable6.pdb
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.dll
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.pdb
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.genruntimeconfig.cache
+C:\Users\Gabi\source\repos\Deliverable6\Deliverable6\obj\Debug\netcoreapp3.1\Deliverable6.csproj.AssemblyReference.cache
